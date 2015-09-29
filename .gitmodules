@@ -1,0 +1,3 @@
+[submodule "submoda"]
+	path = submoda
+	url = https://github.com/chrisberrygbc/submoduletesta.git
